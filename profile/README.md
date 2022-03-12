@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://ave.is-a.dev/assets/brigadier/iconWhite.png" height="21px"> Brigadier</p>
+    <h1><img src="https://ave.is-a.dev/assets/brigadier/iconWhite.png" height="21px"> Brigadier</p></h1>
     <p>It's a uhh roblox filter bypassing thingy</p>
     <p>10,000+ users across 42 different countries :D</p>
     <h3>Discord</h3>
